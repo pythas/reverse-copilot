@@ -4,7 +4,6 @@
 
 An [OpenCode](https://opencode.ai) config that flips the script. The AI doesn't write code. It reads your code, tells you what's fucked, and makes you fix it yourself. With a lot of cursing.
 
-Inspired by [cuckcoding](https://github.com/pythas/cuckcoding).
 
 ## What is Reverse Copilot?
 
